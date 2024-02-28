@@ -1,0 +1,6 @@
+git clone https://github.com/hiranshree/hiranshree.github.io
+cd hiranshree.github.io
+echo "web resume" > index.html
+git add --all
+git commit -m "Initial commit"
+git push -u origin main
